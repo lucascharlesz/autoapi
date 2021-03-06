@@ -3,6 +3,7 @@ defmodule Autoapi do
   Documentation for `Autoapi`.
   """
 
+  @spec hello :: :world
   @doc """
   Hello world.
 
